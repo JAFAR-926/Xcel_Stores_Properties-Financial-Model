@@ -1,2 +1,9 @@
+<img width="1764" height="678" alt="Screenshot 2026-02-25 140219" src="https://github.com/user-attachments/assets/af0761b5-91d9-4311-b970-e178f1e6b1f5" />
+
 # Xcel_Stores_Properties-Financial-Model
 Xcel Stores &amp; Properties is a leading leasing company in Texas, USA. It has a presence in 6 countries. Its core business is the leasing of warehouse space to large corporations. The Company also earns auxiliary revenue from renting majority of the grounds on the weekends for occasions such as weddings, birthdays parties, Conferences, etc.
+The model was built using historical financial data to identify key operational and financial drivers, including revenue growth trends, gross and operating margins, operating expenses, working capital cycles, and capital expenditure requirements. Revenue forecasts incorporate both core leasing income and auxiliary event rental revenue, with assumptions for occupancy rates, lease pricing, and ground utilization. Operating costs are modeled as a combination of fixed infrastructure costs and variable occupancy-related expenses, while working capital accounts for accounts receivable, accounts payable, and accrued expenses, with changes reflected in the cash flow statement.
+
+Capital expenditure is projected for warehouse expansion, maintenance, and upgrades, with a fixed asset schedule tracking asset growth and depreciation, fully integrated into the income statement and balance sheet. The debt and equity structure models borrowings, principal repayments, interest expense, and retained earnings, allowing dynamic assessment of leverage and coverage ratios.
+
+The model integrates the Income Statement, Cash Flow Statement, and Balance Sheet, all fully linked and balanced to support scenario analysis and sensitivity testing. It enables evaluation of revenue segmentation, free cash flow generation, leverage and liquidity assessment, and operational efficiency across the Company’s multi-country operations.
